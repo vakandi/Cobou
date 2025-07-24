@@ -1,0 +1,8 @@
+https://www.decubate.com -O ./decubate.com +*.decubate.com/* +*.css +*.js +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.woff +*.woff2 +*.ttf -* -w -r3 -s0 -%! -%k -c4
+File generated automatically on Thu, 24 Jul 2025 03:06:17, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

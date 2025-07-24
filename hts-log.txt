@@ -1,0 +1,12 @@
+HTTrack3.49-4+libhtsjava.so.2 launched on Thu, 24 Jul 2025 03:06:17 at https://www.decubate.com +*.decubate.com/* +*.css +*.js +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.woff +*.woff2 +*.ttf -*
+(httrack https://www.decubate.com -O ./decubate.com +*.decubate.com/* +*.css +*.js +*.png +*.jpg +*.jpeg +*.gif +*.svg +*.woff +*.woff2 +*.ttf -* -w -r3 -s0 -%! -%k -c4 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:06:17	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+
+HTTrack Website Copier/3.49-4 mirror complete in 1 seconds : 1 links scanned, 1 files written (46855 bytes overall) [11182 bytes received at 11182 bytes/sec], 46855 bytes transferred using HTTP compression in 1 files, ratio 22%
+(No errors, 1 warnings, 0 messages)
